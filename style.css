@@ -141,12 +141,14 @@ li a:hover{
       line-height: 40px;
   }
   
-  #main-bg{
-    background-color: rgb(206, 219, 215);
-  }
+  
 
   .footer{
    text-align: center;
    background-color: rgb(246, 0, 246);
    padding: 10px;
+  }
+
+  .main-bg{
+    background:rgb(206, 219, 215);
   }
